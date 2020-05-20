@@ -1,4 +1,2 @@
-# hello-world
-Testing
-random
-1234555123
+# Hello World!
+Welcome to my github!
